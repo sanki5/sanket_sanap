@@ -1,0 +1,11 @@
+FEW IMPORTANT COMMANDS:
+
+
+1: Whenever you start git get initialize with following command:	git init
+2: To check the status : git status
+3: whenever you create any file folder first add them using git command prompt: git add filename/foldername
+4: To add all foldes or files together : git add -A
+5: To comment single file : git commit -m "modifeied file"
+6: To commit all file together : git commit -a -m "text"
+7: To push information to master node: git push origin master
+8: To pull all  information from master node to remote git : git pull origin master
